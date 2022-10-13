@@ -1,0 +1,21 @@
+{
+  "name": "ayu-dark-altered",
+  "displayName": "Ayu Dark Altered",
+  "description": "Ayu Dark theme with brighter text for better readability.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ayu Dark Altered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ayu Dark Altered-color-theme.json"
+      }
+    ]
+  }
+}
